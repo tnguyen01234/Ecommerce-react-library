@@ -405,6 +405,7 @@ FEATURES
 .book__title--skeleton {
   height: 21px;
   width: 100%;
+  max-width: 250px;
 }
 
 .book__rating--skeleton {
@@ -488,6 +489,11 @@ footer {
 
 .footer__link {
   padding: 0 8px;
+}
+
+.footer__row {
+  padding-top: 24px;
+  padding-bottom: 48px;
 }
 
 /* 
@@ -648,6 +654,7 @@ select {
   CART 
     
 */
+
 
 .cart__header {
   background-color: #7342d6;
