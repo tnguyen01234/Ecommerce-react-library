@@ -626,6 +626,7 @@ select {
 
 .book__summary--title {
   margin-bottom: 8px;
+  font-weight: bold;
 }
 
 .book__summary--para {
